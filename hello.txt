@@ -6,5 +6,4 @@ heelo git
 heelo git
 heelo git
 heelo git --master test
-heelo git --hot-fix2
-heelo git --hot-fix
+heelo git --hot-fix test
