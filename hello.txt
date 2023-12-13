@@ -4,6 +4,6 @@ heelo git
 heelo git
 heelo git
 heelo git
-heelo git
+heelo git --hot-fix2
 heelo git
 heelo git --hot-fix
